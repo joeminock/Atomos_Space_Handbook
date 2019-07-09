@@ -6,11 +6,14 @@ Before anything else, values come first. Without clear, shared values, we wander
 
 Key values:
 
-* **Total Individual Accountability.** Bureaucracy and processes are created to protect companies from mediocre engineers. We are not mediocre engineers. We take total ownership of everything that we do, including checking our blind spots.
+* **Total Individual Accountability.**
+Bureaucracy and processes are created to protect companies from mediocre engineers. We are not mediocre engineers. We take total ownership of everything that we do, including checking our blind spots.
 
-* **Self-Aware.** Everyone has strengths and weaknesses. Acknowledge and communicate yours. Work on making them better, or work out who is better suited for something that you are weak at. Be open to receiving feedback and evaluating it for merit.
+* **Self-Aware.**
+Everyone has strengths and weaknesses. Acknowledge and communicate yours. Work on making them better, or work out who is better suited for something that you are weak at. Be open to receiving feedback and evaluating it for merit.
 
-* **Levelheadedness**. We should be calm, considered, and thoughtful in our dealings with each other and the world at large. We don't act out of spite, we don't rush to judgment, we don't jump to conclusions. If someone disagrees with us or attacks us we listen, we think, and we respond calmly and clearly - directly addressing the idea or the situation, not the personality or the pressure.
+* **Question Convention and Understand Assumptions.**.
+William wants to word-Smith, but this is my input.
 
 * **Value 4.** Value 4 content to go here.
 

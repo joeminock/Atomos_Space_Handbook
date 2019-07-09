@@ -1,8 +1,6 @@
 # Atomos Space Employee Handbook
 
-For over 10 years, we didn’t have a handbook. In those 10 years, when a new person joined the company, they were expected to figure things out for themselves. But when we grew from a company of 10, 20, 30 employees to a company of over
-50, our “introduction by immersion” style stopped working. New hires felt lost and isolated, and
-their first weeks or even months on the job were stressful because of it. It can be unnerving to join any company, but perhaps Atomos Space in particular, given how different some of our practices are. There’s as much to unlearn as there is to learn. Prior to this handbook, navigating that path was both somewhat random and almost entirely oral. For a company that prides itself on clarity and writing, that just wasn’t right.
+As a relatively young company, it's quite rare to have a handbook. We felt in important however to document the things that we beleive critical to our collective success. In the early days, most startups expect their team members to figure things out for themselves. We're different. We don't believe the “introduction by immersion” style works. It can be unnerving to join any company, but perhaps Atomos Space in particular, given our mission and how different some of our practices are. This handbook is designed to help you navigate your path with clarity.
 
 So, this is where we’ll try to share what’s worth knowing about Atomos Space the company, our culture, our process, and our history. It’s a guide to understanding what people are talking about when they call for “judo” (redefining a hard problem into an easy one), whether it’s okay to take your vacation when you’ve only been with us for a month (yes), what a meet-up is and why we call it an eat-up (hint: food… lots of food), and hopefully everything in-between.
 
