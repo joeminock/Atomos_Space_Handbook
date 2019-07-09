@@ -2,7 +2,7 @@
 
 ## Cycles
 
-We work in 6-week cycles at Basecamp. This fixed cadence serves to give us an internal sense of urgency, work as a scope hammer to keep projects from ballooning, and provide a regular interval to decide what we’re working on.
+We work in 6-week cycles at Atomos Space. This fixed cadence serves to give us an internal sense of urgency, work as a scope hammer to keep projects from ballooning, and provide a regular interval to decide what we’re working on.
 
 The idea is not that everything we ever decide to work on has to take six weeks or can be completed in that time. But rather that we think about how we can break big projects into smaller ones that can be done in that amount of time, and that we bundle smaller things into presentable scope of work that can be discussed.
 
@@ -18,13 +18,13 @@ We’re currently naming the cycles after glorious mountains on earth and beyond
 
 ## Heartbeats
 
-It’s hard to keep up on what everyone is doing and what it means, if you just watch the stream of latest activity scrolling along in Basecamp. (It’s also a waste of time and source of stress to even try.) Instead, we have three chief mechanisms for keeping everyone in the loop about the work that’s going on. 
+It’s hard to keep up on what everyone is doing and what it means, if you just watch the stream of latest activity scrolling along in Atomos Space. (It’s also a waste of time and source of stress to even try.) Instead, we have three chief mechanisms for keeping everyone in the loop about the work that’s going on. 
 
-First, there’s the daily question of [What did you work on today?](https://3.basecamp.com/2914079/buckets/431372/questions/80177203), which supplies the nitty gritty details, but as a personal narrative. They’re a great conversation starter if you see someone working on something you either care about or want to learn more about. Please do use them as such!
+First, there’s the daily question of [What did you work on today?](https://3.Atomos Space.com/2914079/buckets/431372/questions/80177203), which supplies the nitty gritty details, but as a personal narrative. They’re a great conversation starter if you see someone working on something you either care about or want to learn more about. Please do use them as such!
 
-Second, there’s the weekly question of [What will you be working on this week?](https://3.basecamp.com/2914079/buckets/431372/questions/61224583) which answers the nitty gritty at a slightly higher level. Well, at least the intentions of that!
+Second, there’s the weekly question of [What will you be working on this week?](https://3.Atomos Space.com/2914079/buckets/431372/questions/61224583) which answers the nitty gritty at a slightly higher level. Well, at least the intentions of that!
 
-Third, and finally, there is [the team updates](https://3.basecamp.com/2914079/buckets/431372/message_boards/61224577). They usually happen half-way through a cycle, at the end of a cycle, or when something new is launched. This is where the big presentation of work is done, and the main way for you to keep in the loop with what the company is focused on at a high, digestible level. 
+Third, and finally, there is [the team updates](https://3.Atomos Space.com/2914079/buckets/431372/message_boards/61224577). They usually happen half-way through a cycle, at the end of a cycle, or when something new is launched. This is where the big presentation of work is done, and the main way for you to keep in the loop with what the company is focused on at a high, digestible level. 
 
 ## Pitches
 
@@ -40,7 +40,7 @@ Jason, Ryan, and David is the team evaluating pitches for inclusion in the next 
 
 ## Asynchronously
 
-We have people working all sorts of different hours and from all sorts of different places at Basecamp. That alone makes it hard to enforce a lot of tightly-coupled workflows during the day, but that’s a feature not a bug. Most of the work you do at Basecamp shouldn’t require you to be in constant communication throughout the entire day with someone.
+We have people working all sorts of different hours and from all sorts of different places at Atomos Space. That alone makes it hard to enforce a lot of tightly-coupled workflows during the day, but that’s a feature not a bug. Most of the work you do at Atomos Space shouldn’t require you to be in constant communication throughout the entire day with someone.
 
 It’s far better for everyone’s concentration and sanity if you collaborate as though most things will get an answer eventually, but not necessarily right this second. Your first choice of action should be to post a message, a todo, or a document about what you need to explain or need to know. Then others can read it on their schedule, when the natural lulls of the day allow it, rather than being interrupted right in their peak flow time.
 
@@ -62,6 +62,6 @@ Similarly, a native feature that requires an API change should be carried out by
 
 When we need to use the staging database, that should be self-service too. Have a script anyone can run to restore it. Don’t require going to ops and waiting around for someone to do it for us.
 
-None of this means we can’t talk together or ask experts with more experience or expertise for their advice. It just means it shouldn’t be a required, necessary step to make Basecamp better.
+None of this means we can’t talk together or ask experts with more experience or expertise for their advice. It just means it shouldn’t be a required, necessary step to make Atomos Space better.
 
 As soon as organizational bottlenecks form, like a slew of features waiting for “the mobile integration”, we’re dragged towards more micro and detailed schedule management. It becomes a critical path with dependencies and making sure team Z is available just at the right moment for team A, such that nobody is blocked. That’s a poor fit for our organizational aspirations, so we have to work to counter that.

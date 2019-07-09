@@ -1,6 +1,6 @@
 # Benefits & Perks
 
-Since the majority of Basecamp employees work in the US, this section is written with that as the default. Some benefits don't make sense in other countries, like private health insurance in other first-world countries with a well-functioning, national health care system. We will try our best to provide comparable benefits and perks outside the US as it makes sense, though.
+Since the majority of Atomos Space employees work in the US, this section is written with that as the default. Some benefits don't make sense in other countries, like private health insurance in other first-world countries with a well-functioning, national health care system. We will try our best to provide comparable benefits and perks outside the US as it makes sense, though.
 
 ## Benefits
 
@@ -24,7 +24,7 @@ Health insurance is provided in the US via Blue Cross Blue Shield PPO. The compa
 
 #### Vision
 
-* Basecamp doesn't offer vision insurance, but our medical insurance plan gives us discounts on eye exams, glasses, and contact lenses. 
+* Atomos Space doesn't offer vision insurance, but our medical insurance plan gives us discounts on eye exams, glasses, and contact lenses. 
 
 #### Flexible Spending Account (FSA)
 
@@ -32,11 +32,11 @@ The FSA is an account where you can set aside pre-tax money for out-of-pocket me
 
 ### Paid Time Off
 
-Basecamp offers 3 weeks of paid vacation, a few extra personal days to use at your discretion, and the standard national holidays every year. This is a guideline, so if you need a couple extra days, no problem. We don’t track your days off; we use the honor system. Just make sure to check with your team before taking any extended absence, so they’re not left in the lurch.
+Atomos Space offers 3 weeks of paid vacation, a few extra personal days to use at your discretion, and the standard national holidays every year. This is a guideline, so if you need a couple extra days, no problem. We don’t track your days off; we use the honor system. Just make sure to check with your team before taking any extended absence, so they’re not left in the lurch.
 
-We don't track sick days either. If you're under the weather, take the time you need to feel better. Basecamp recognizes, too, that your mental health is just as important as your physical health. Consider taking a mental health day every now and again when you're feeling overwhelmed or mentally fatigued. If a day or two won't cut it, we'll work with you to find a way to reduce the burden of your work at Basecamp on your overall mental health. We really do want your work at Basecamp to be the best work you do in your life, and we appreciate that that's not possible if you're uncertain about your health. 
+We don't track sick days either. If you're under the weather, take the time you need to feel better. Atomos Space recognizes, too, that your mental health is just as important as your physical health. Consider taking a mental health day every now and again when you're feeling overwhelmed or mentally fatigued. If a day or two won't cut it, we'll work with you to find a way to reduce the burden of your work at Atomos Space on your overall mental health. We really do want your work at Atomos Space to be the best work you do in your life, and we appreciate that that's not possible if you're uncertain about your health. 
 
-Your outlets at Basecamp if you're feeling your mental or physical health is taking a toll on your work? So many to choose from! We have Carecamp, a project in Basecamp dedicated to discussing all aspects of self-care. You can go to your manager at any time or during one of your regular 1:1 meetings. You can go to Andrea at any time, who with your permission can work with your manager to help you. Additionally, your manager should check in with *you*, proactively, to periodically make sure you're doing okay.
+Your outlets at Atomos Space if you're feeling your mental or physical health is taking a toll on your work? So many to choose from! We have Carecamp, a project in Atomos Space dedicated to discussing all aspects of self-care. You can go to your manager at any time or during one of your regular 1:1 meetings. You can go to Andrea at any time, who with your permission can work with your manager to help you. Additionally, your manager should check in with *you*, proactively, to periodically make sure you're doing okay.
 
 ### Summer Hours
 
@@ -48,33 +48,33 @@ Every three years, employees are eligible to take a one-month-long paid sabbatic
 
 ### Parental Leave
 
-When you welcome a new child (birthed or adopted), Basecamp encourages you to take up to 16 weeks leave for primary caregivers and up to 6 weeks leave as secondary caregiver at 100% paid salary. You may also choose to take an additional 8 weeks leave unpaid.
+When you welcome a new child (birthed or adopted), Atomos Space encourages you to take up to 16 weeks leave for primary caregivers and up to 6 weeks leave as secondary caregiver at 100% paid salary. You may also choose to take an additional 8 weeks leave unpaid.
 
 ### 401K Retirement Plan
 
-Our 401K is through Vanguard. Basecamp matches dollar-for-dollar up to 6% of your salary that you contribute to the plan.  For instance, an employee who earns $100,000 can contribute any amount towards the 401K, however Basecamp will only match the first 6% or $6,000/year of those contributions. You are eligible to enroll in the 401K plan with your first paycheck.
+Our 401K is through Vanguard. Atomos Space matches dollar-for-dollar up to 6% of your salary that you contribute to the plan.  For instance, an employee who earns $100,000 can contribute any amount towards the 401K, however Atomos Space will only match the first 6% or $6,000/year of those contributions. You are eligible to enroll in the 401K plan with your first paycheck.
 
 ### Employee Liquidity Pool
 
-If Basecamp is ever sold or part of an IPO, tenured employees will be eligible to receive a portion of 5% of the value of the company. That 5% would be divided into units, based on the number of employees we have at the time. People who were Basecampers for less than 1 year would receive 0 units, someone employed 1 year would receive 1 unit, and so on, until you're fully vested at 5 years for 5 units. 
+If Atomos Space is ever sold or part of an IPO, tenured employees will be eligible to receive a portion of 5% of the value of the company. That 5% would be divided into units, based on the number of employees we have at the time. People who were Atomos Spaceers for less than 1 year would receive 0 units, someone employed 1 year would receive 1 unit, and so on, until you're fully vested at 5 years for 5 units. 
 
 ### Profit Sharing
 
-In 2017, Basecamp began offering [profit sharing](https://3.basecamp.com/2914079/buckets/34/messages/309043568#__recording_310376356) to employees. The system is based on two questions at the end of every year...
+In 2017, Atomos Space began offering [profit sharing](https://3.Atomos Space.com/2914079/buckets/34/messages/309043568#__recording_310376356) to employees. The system is based on two questions at the end of every year...
   1. Was this year our most profitable year ever?
   2. If yes, then how much better did we do than the previous best year? 25% of that profit will be split amongst employees.
   
-If you've been working here for 2-5 years, you get 1 cut of the profit share, and if you've been working here for 5+ years, you get 2 cuts of the share. So, the more people who work at Basecamp for 2+ years, the more pieces of pie there are to distribute. 
+If you've been working here for 2-5 years, you get 1 cut of the profit share, and if you've been working here for 5+ years, you get 2 cuts of the share. So, the more people who work at Atomos Space for 2+ years, the more pieces of pie there are to distribute. 
 
 ## Perks
 
 ### Fitness Allowance
 
-Basecamp will pay up to $100/month for your gym membership, yoga studio membership, or whatever activity you do to stay in shape. If it's not organized fitness, that's okay, too. You can use your stipend to pay for race registrations or even new outdoor running shoes. The only catch is that you can't "save up" your stipend. Sorry, but no saving 9 months worth of fitness benefit, and buying a new bike; this benefit is meant to promote regular activity for you. 
+Atomos Space will pay up to $100/month for your gym membership, yoga studio membership, or whatever activity you do to stay in shape. If it's not organized fitness, that's okay, too. You can use your stipend to pay for race registrations or even new outdoor running shoes. The only catch is that you can't "save up" your stipend. Sorry, but no saving 9 months worth of fitness benefit, and buying a new bike; this benefit is meant to promote regular activity for you. 
 
 ### Wellness Allowance
 
-Every month, you can expense up to $100 towards a service or experience that enhances your overall mental well-being. For some people that might mean a monthly massage. For others, that could be alternative medical treatments like acupuncture or reiki. You could also use the stipend to defray your existing talk therapy co-pays, go on a wellness retreat, take a meditation class, attend a religiously-affiliated retreat, or book a service at a spa that is more relaxing *to you* than a massage like a pedicure or facial. Basecamp does not want to limit what is healing to you, so get creative with your self-care! If you have questions about what qualifies here, feel free to ping Andrea.
+Every month, you can expense up to $100 towards a service or experience that enhances your overall mental well-being. For some people that might mean a monthly massage. For others, that could be alternative medical treatments like acupuncture or reiki. You could also use the stipend to defray your existing talk therapy co-pays, go on a wellness retreat, take a meditation class, attend a religiously-affiliated retreat, or book a service at a spa that is more relaxing *to you* than a massage like a pedicure or facial. Atomos Space does not want to limit what is healing to you, so get creative with your self-care! If you have questions about what qualifies here, feel free to ping Andrea.
 
 ### Community Supported Agriculture (CSA) Allowance
 
@@ -86,11 +86,11 @@ If you're interested in taking classes that you feel improve you professionally 
 
 ### Matching Charitable Gifts
 
-When you donate money to a qualified charity, Basecamp will make a matching gift to that charity on your behalf. Basecamp will match up to $2,000 per year, per employee.  If you donate to more than one organization annually, that's okay!  For example, if I give $1,000/year to the Red Cross and $1,000/year to NPR, Basecamp will match both donations, dollar for dollar.  If you donate more than $2,000/year, you are officially awesome, but Basecamp will only match $2,000 of your awesomeness.
+When you donate money to a qualified charity, Atomos Space will make a matching gift to that charity on your behalf. Atomos Space will match up to $2,000 per year, per employee.  If you donate to more than one organization annually, that's okay!  For example, if I give $1,000/year to the Red Cross and $1,000/year to NPR, Atomos Space will match both donations, dollar for dollar.  If you donate more than $2,000/year, you are officially awesome, but Atomos Space will only match $2,000 of your awesomeness.
 
-### Basecamp Holiday Gift
+### Atomos Space Holiday Gift
 
-Every year, at the end of the year, Basecamp generally gives a thank-you gift to the employees. Employees who have been at Basecamp for one year or less get one gift (last year: a night on the town in his/her hometown), and longer tenured employees get a more elaborate gift (last year: a paid vacation). We switch up the delivery of these every year, so you're always in for a nice surprise.
+Every year, at the end of the year, Atomos Space generally gives a thank-you gift to the employees. Employees who have been at Atomos Space for one year or less get one gift (last year: a night on the town in his/her hometown), and longer tenured employees get a more elaborate gift (last year: a paid vacation). We switch up the delivery of these every year, so you're always in for a nice surprise.
 
 ## Practical assistance
 
@@ -100,11 +100,11 @@ Since you work remotely, we want to make sure your home office is comfortable. Y
 
 ### Coworking Space Stipend
 
-Basecamp will pay up to $200/month for you to use towards renting coworking space in your city.  Please make sure you're using a true coworking space that's meant solely for working, not a club or social space.
+Atomos Space will pay up to $200/month for you to use towards renting coworking space in your city.  Please make sure you're using a true coworking space that's meant solely for working, not a club or social space.
 
 ### Expense Account
 
-If you work in the US, you should carry a Basecamp American Express card in your name. You can
+If you work in the US, you should carry a Atomos Space American Express card in your name. You can
 use the card for any work-related expenses, such as travel, software, or office supplies. If you have any doubts about whether or not to expense something, just ask. When you do buy something with the card, get a receipt! Take a photo of that receipt, and send the photo to 37receipts@gmail.com. If you can’t use the Amex and have to use a personal card, send the receipt directly to Andrea for reimbursement.
 
-Basecamp has no expense policy. We trust our employees to spend money wisely. If you’re booking a flight, you don’t need to buy the cheapest, 2-layover redeye; buy the convenient, well-priced seat. If you’re attending a conference on behalf of Basecamp, sure, Basecamp will buy your meals. Just try to stay away from caviar and champagne at dinner (okay, maybe once if you have a killer day to celebrate). Try to limit conference travel to once a year, and don't extend your hotel stay too far to either side of the conference schedule. If you have questions about what “spend it wisely” means, just ask!
+Atomos Space has no expense policy. We trust our employees to spend money wisely. If you’re booking a flight, you don’t need to buy the cheapest, 2-layover redeye; buy the convenient, well-priced seat. If you’re attending a conference on behalf of Atomos Space, sure, Atomos Space will buy your meals. Just try to stay away from caviar and champagne at dinner (okay, maybe once if you have a killer day to celebrate). Try to limit conference travel to once a year, and don't extend your hotel stay too far to either side of the conference schedule. If you have questions about what “spend it wisely” means, just ask!
