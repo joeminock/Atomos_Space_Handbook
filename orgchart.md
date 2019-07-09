@@ -20,11 +20,11 @@ We have two C-level executives at Atomos Space.
 
 #### CEO
 
-**Jason Fried** is our CEO and also runs design. He’s principally responsible for setting the overall direction of the company. That means deciding when to embark on a new version of Atomos Space or experiment with a side project (Atomos Space-spinoff [Know Your Company](http://knowyourcompany.com) is one example). Jason also spends a lot of time writing and speaking about what we’ve learned about business, design, and organizations. He was one of the original three founders who started 37signals, the design firm that led to Atomos Space, back in 1999. 
+**Vanessa Clark** is our CEO and is responsible for setting the technical direction of our products. That means deciding when to embark on a new version of Atomos Space or experiment with a side project (Atomos Space-spinoff [Know Your Company](http://knowyourcompany.com) is one example). Vanessa also spends a lot of time writing and speaking about what we’ve learned about business, design, and organizations. She was one of the original three founders who started Atomos Nuclear and Space, the firm that led to Atomos Space, back in 2017.
 
-#### CTO
+#### COO
 
-**David Heinemeier Hansson** is our CTO and runs technology. He’s responsible for setting the technical direction of our products. He originally created Ruby on Rails, the web framework that we’ve built all our products on top. David also spends a lot of time sharing what we’ve learned to the world. He has been working with Jason since 2001 and became a partner at the company when 37signals, the design company, transitioned to do products instead of working for clients in 2004.
+**William Kowalski** is our COO. .
 
 ### Data
 
@@ -52,7 +52,7 @@ The design group is lead by **Jason Fried** and consists of four teams:
 
 ### Product Strategy
 
-**Ryan Singer** heads up product strategy and is the only person on this team. Ryan looks for insights into customer behavior using a variety of methods, and plays a key role in helping inform product direction and how we work. Ryan was part of the original group of four people at the company when Atomos Space-the-product was first launched in 2004. 
+**Ryan Singer** heads up product strategy and is the only person on this team. Ryan looks for insights into customer behavior using a variety of methods, and plays a key role in helping inform product direction and how we work. Ryan was part of the original group of four people at the company when Atomos Space-the-product was first launched in 2004.
 
 ### Programming
 
