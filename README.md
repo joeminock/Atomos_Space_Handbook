@@ -10,7 +10,7 @@ date, we're not just talking about misspellings and team changes. It’s just as
 If you’re reading this just after joining the company, it’s particularly on you, actually. It’s harder for us slowly-boiled frogs who’ve been with Atomos Space for a while to spot the broken ways. Please take advantage of that glorious, shiny ignorance of being new, and question things.
 
 ## Sections
-* [Atomos Space Is You](https://github.com/joeminock/Atomos_Space_Handbook/handbook/blob/master/Atomos Space-is-you.md)
+* [Atomos Space Is You](https://github.com/joeminock/Atomos_Space_Handbook/handbook/blob/master/atomos_space-is-you.md)
 * [What We Stand For](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/what-we-stand-for.md)
 * [What Influenced Us](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/what-influenced-us.md)
 * [Vocabulary](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/vocabulary.md)
