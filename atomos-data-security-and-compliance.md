@@ -6,10 +6,15 @@ Export Controls are federal laws that govern how technology, technical data, tec
 
 Protecting sensitive data is a shared responsibility. You are responsible for ensuring that your use of permitted services complies with laws, regulations, and policies where applicable.
 
+## Data Types Included in EAR and ITAR Scope
+* Data at Rest (Laptops, desktops, USB Devices, Offsite Backup, Databases, etc.)
+* Data in Motion (Emails, File Transfers, Web Traffic, etc.)
+* Data in Use (SharePoint, Private Cloud, File & Application Servers, Database, etc.)
+
 ## Permitted resources
 
 *Amazon Web Services - Government Cloud*
 AWS-GovCloud provides variety of cloud-based infrastructure services (storage, database, computing) and is physically located in the United States and is staffed by U.S. persons, which makes it compliant with Export Control regulations such as ITAR and EAR.
 
 ## Laws/Regulations/Policies
-[U.S. Department of Commerce Export Controls](http://www.bis.doc.gov/licensing/exportingbasics.htm)
+[U.S. Department of Commerce, Bureau of Industry and Security Commerce Control List](https://www.bis.doc.gov/index.php/regulations/commerce-control-list-ccl)
