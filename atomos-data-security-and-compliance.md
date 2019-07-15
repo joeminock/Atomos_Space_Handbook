@@ -11,6 +11,12 @@ Protecting sensitive data is a shared responsibility. You are responsible for en
 * Data in Motion (Emails, File Transfers, Web Traffic, etc.)
 * Data in Use (SharePoint, Private Cloud, File & Application Servers, Database, etc.)
 
+## Working with Data
+
+#### Data In Use
+When working with sensitive data, it is imperative that you do so with an 
+
+
 ## Permitted resources
 
 *Amazon Web Services - Government Cloud*
