@@ -13,11 +13,28 @@ Protecting sensitive data is a shared responsibility. You are responsible for en
 
 ## Working with Data
 
-#### Data In Use
-When working with sensitive data, it is imperative that you do so with an 
+#### Access Controls
+* Do not access export-controlled information from shared, public computers such as kiosk-type computers in libraries, hotels, and business centers, or from computers that have no local access control.
+
+* Do not post export-controlled information on public websites or websites that rely solely on IP addresses for access control.  Instead, secure access using individually-assigned accounts requiring username/password, user certificates, or other user-specific authentication methods.
+
+* Protect export-controlled information by at least one physical and one logical barrier (e.g. locked container or room and login and password) when not under direct individual control.
 
 
-## Permitted resources
+#### Transmission of ITAR covered data
+* Do not transmit or email Controlled Information unencrypted. An alternative to email is to put the files in a secure location (e.g. SFTP site) and send an authenticated link in a message to whomever needs access to the file (as specified in the TCP).
+
+* Wireless network access to Controlled Information must be encrypted using, e.g., WPA2 Enterprise wireless network encryption or VPN.
+
+#### Laptops
+The data must be stored on a Atomos Space-owned and managed single-user laptop device using whole disk encryption (e.g. FileVault2 for Mac, BitLocker for Windows, LUKS for Linux) with a unique decryption passphrase known only to the device's authorized primary user.
+
+#### Storing ITAR covered data
+Export-controlled data is stored only on devices listed in the IT Security Plan.
+
+If the export-controlled data cannot be encrypted at rest using an electronic barrier, a physical barrier must be implemented (e.g. locked rack, storage safe, etc.).
+
+## Permitted Resources
 
 *Amazon Web Services - Government Cloud*
 AWS-GovCloud provides variety of cloud-based infrastructure services (storage, database, computing) and is physically located in the United States and is staffed by U.S. persons, which makes it compliant with Export Control regulations such as ITAR and EAR.
