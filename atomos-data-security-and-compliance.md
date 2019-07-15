@@ -20,7 +20,6 @@ Protecting sensitive data is a shared responsibility. You are responsible for en
 
 * Protect export-controlled information by at least one physical and one logical barrier (e.g. locked container or room and login and password) when not under direct individual control.
 
-
 #### Transmission of ITAR covered data
 * Do not transmit or email Controlled Information unencrypted. An alternative to email is to put the files in a secure location (e.g. AWS GovCloud) and send an authenticated link in a message to whomever needs access to the file.
 
@@ -40,6 +39,11 @@ If the export-controlled data cannot be encrypted at rest using an electronic ba
 
 *Amazon Web Services - Government Cloud*
 AWS-GovCloud provides variety of cloud-based infrastructure services (storage, database, computing) and is physically located in the United States and is staffed by U.S. persons, which makes it compliant with Export Control regulations such as ITAR and EAR.
+
+## Traveling with Export-Controlled Data
+You may not travel outside of the United States with your Atomos Nuclear and Space provided laptop, tablets, phone, or any other associated technology. Doing so puts our hard work at risk and potentially puts you in breach of International Arms Treaties and Federal Law.
+
+Should you need to travel internationally for work, please engage your manager or leadership to form an appropriate strategy that provides you access to the data you need while maintaining compliance with any governing policy or laws.
 
 ## Laws/Regulations/Policies
 [U.S. Department of Commerce, Bureau of Industry and Security Commerce Control List](https://www.bis.doc.gov/index.php/regulations/commerce-control-list-ccl)
