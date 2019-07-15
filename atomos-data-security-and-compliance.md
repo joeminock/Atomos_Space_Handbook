@@ -11,7 +11,7 @@ Protecting sensitive data is a shared responsibility. You are responsible for en
 * Data in Motion (Emails, File Transfers, Web Traffic, etc.)
 * Data in Use (SharePoint, Private Cloud, File & Application Servers, Database, etc.)
 
-## Working with Data
+## Working with Export-Controlled Data
 
 #### Access Controls
 * Do not access export-controlled information from shared, public computers such as kiosk-type computers in libraries, hotels, and business centers, or from computers that have no local access control.
@@ -22,9 +22,11 @@ Protecting sensitive data is a shared responsibility. You are responsible for en
 
 
 #### Transmission of ITAR covered data
-* Do not transmit or email Controlled Information unencrypted. An alternative to email is to put the files in a secure location (e.g. SFTP site) and send an authenticated link in a message to whomever needs access to the file (as specified in the TCP).
+* Do not transmit or email Controlled Information unencrypted. An alternative to email is to put the files in a secure location (e.g. AWS GovCloud) and send an authenticated link in a message to whomever needs access to the file.
 
 * Wireless network access to Controlled Information must be encrypted using, e.g., WPA2 Enterprise wireless network encryption or VPN.
+
+* Do not transmit data over a non-Atomos, open, community, coffee shop, or library wi-fi network without the use of a VPN.
 
 #### Laptops
 The data must be stored on a Atomos Space-owned and managed single-user laptop device using whole disk encryption (e.g. FileVault2 for Mac, BitLocker for Windows, LUKS for Linux) with a unique decryption passphrase known only to the device's authorized primary user.
@@ -34,7 +36,7 @@ Export-controlled data is stored only on devices listed in the IT Security Plan.
 
 If the export-controlled data cannot be encrypted at rest using an electronic barrier, a physical barrier must be implemented (e.g. locked rack, storage safe, etc.).
 
-## Permitted Resources
+## Permitted Storage Resources
 
 *Amazon Web Services - Government Cloud*
 AWS-GovCloud provides variety of cloud-based infrastructure services (storage, database, computing) and is physically located in the United States and is staffed by U.S. persons, which makes it compliant with Export Control regulations such as ITAR and EAR.
