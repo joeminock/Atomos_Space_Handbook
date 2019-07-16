@@ -1,6 +1,5 @@
-→ [jump down to the Travel Checklist](#checklist-before-you-travel)
-
 # International Travel Guide
+→ [jump down to the Travel Checklist](#checklist-before-you-travel)
 
 "Do I need a visa?"
 
