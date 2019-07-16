@@ -8,11 +8,9 @@ This handbook also offers us an opportunity to clarify who we actually are as a 
 
 If you’re reading this just after joining the company, it’s particularly on you, actually. It’s harder for us slowly-boiled frogs who’ve been with Atomos Space for a while to spot the broken ways. Please take advantage of that glorious, shiny opportunity of being new, and question things.
 
-## Sections
+## The Legal Stuff
 
-### The Legal Stuff
-
-### The Atomos Way
+## The Atomos Way
 * [Atomos Space Is You](https://github.com/joeminock/Atomos_Space_Handbook/handbook/blob/master/atomos_space-is-you.md)
 * [About This Handbook](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/about-this-handbook.md)
 * [What We Stand For](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/what-we-stand-for.md)
