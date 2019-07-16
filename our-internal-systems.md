@@ -1,38 +1,26 @@
 # Our Internal Systems
 
-Besides the customer-facing applications, like the different versions of Atomos Space, we have a number of internal systems that help us support, report, and operate the company. They are as follows:
+These are the internal systems that help us support, report, and operate the company. They are as follows:
 
-### Dash
+### Slack
 
-Dash is the main hub for everything that has to do with logging (like finding why a request is slow or whether an email has been delivered), reporting (everything from number of support cases handled to split of devices used to access Atomos Space), application health (response times, job queue exceptions etc). The chieftain in charge of the overall system is Noah.
+Our central point of communication. This is where we check in for virtual standups, kibitz about ideas, ask for or give help, or share the latest funny comic on Ikcd (https://imgs.xkcd.com/comics/how_hacking_works.png)
 
-https://dash.37signals.com/
+*Please do not share or discuss sensitive project data on Slack*
 
-### Queenbee
+https://atomosspace.slack.com/
 
-Queenbee is our invoice, accounting, and identity system. Here you can look up any customer account, see whether they are comped, refund an invoice, or even login as a customer.
+### WRIKE
 
-That’s an immense amount of power and we take its use very seriously. We only ever login as a customer after having been given explicit permission to do so, never preemptively. Our customers expect that their information is confidential, even from us, and we intend to honor that expectation at all times.
+Wrike is our project management application. It's where we keep track of whats to be done and hold each other accountable.
 
-https://billing.37signals.com
+https://wrike.com
 
-### The 37 command
+### Github
 
-This is perhaps less of a system and more of an interface to all our other systems. The 37 command gives easy access to the production consoles for all the applications, which is often needed when diagnosing or fixing custom issues. It also allows you to directly grep and tail log files for live debugging, amongst other things.
+This is our team private repository of documents and code that does not fall under EAR or ITAR compliance requirements. It allows us to keep track of document, file, and application versions. This very document resides in our Github repo.
 
-https://github.com/Atomos Space/37
-
-### Sentry
-
-We track programming exceptions on Sentry. When a customer hits a "Oops, something went wrong!" screen, that means there'll be an entry in Sentry explaining to programmers why they saw that screen. Keeping the exceptions under control and monitored is primarily the responsibility of SIP and Jim via on-call.
-
-https://getsentry.com/
-
-### Customer.IO
-
-All drip campaigns, welcome emails, and other email marketing campaigns for Atomos Space 3 are run through Customer.IO. This allows the marketing team independently tweak and measure the campaigns.
-
-https://customer.io
+https://github.com/AtomosSpace
 
 ### Shipshape
 

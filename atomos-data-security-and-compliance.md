@@ -39,9 +39,11 @@ Protecting sensitive data is a shared responsibility. You are responsible for en
 
 * Do not transmit data over a non-Atomos, open, community, coffee shop, or library wi-fi network without the use of a VPN.
 
-#### Laptops
+* Do not transmit or discuss sensitive data via Slack.
+
+#### Laptop Security
 * Data must be stored on a Atomos Space-owned and managed single-user laptop device using whole disk encryption (e.g. FileVault2 for Mac, BitLocker for Windows, LUKS for Linux) with a unique decryption passphrase known only to the device's authorized primary user.
-* Laptop access must be limited to ONLY the designated user and authentication via password or biological authentication.
+* Laptop access must be limited to ONLY the designated user and authentication via secure password and/or biological authentication.
 * If traveling internationally, review our [International Travel Guide](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/international-travel-guide.md) well in advance of your trip.
 
 #### Storing ITAR covered data
