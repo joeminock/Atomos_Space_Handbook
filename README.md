@@ -8,11 +8,14 @@ This handbook also offers us an opportunity to clarify who we actually are as a 
 
 If you’re reading this just after joining the company, it’s particularly on you, actually. It’s harder for us slowly-boiled frogs who’ve been with Atomos Space for a while to spot the broken ways. Please take advantage of that glorious, shiny opportunity of being new, and question things.
 
-## The Legal Stuff
-
 ## The Atomos Way
-* [Atomos Space Is You](https://github.com/joeminock/Atomos_Space_Handbook/handbook/blob/master/atomos_space-is-you.md)
 * [About This Handbook](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/about-this-handbook.md)
+* [Atomos Space Is You](https://github.com/joeminock/Atomos_Space_Handbook/handbook/blob/master/atomos_space-is-you.md)
+* [Getting Started](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/getting-started.md)
+* [Data Security and Compliance](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/atomos-data-security-and-compliance.md)
+
+
+
 * [What We Stand For](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/what-we-stand-for.md)
 * [What Influenced Us](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/what-influenced-us.md)
 * [Vocabulary](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/vocabulary.md)
@@ -20,11 +23,18 @@ If you’re reading this just after joining the company, it’s particularly on 
 * [Who Does What?](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/orgchart.md)
 * [Where We Work](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/where-we-work.md)
 * [Benefits & Perks](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/benefits-and-perks.md)
-* [Getting Started](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/getting-started.md)
 * [How We Work](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/how-we-work.md)
 * [Our Rituals](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/our-rituals.md)
-* [Making a Career](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/making-a-career.md)
 * [Our Internal Systems](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/our-internal-systems.md)
-* [A Note About Moonlighting](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/moonlighting.md)
 * [International Travel Guide](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/international-travel-guide.md)
 * [FAQ](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/faq.md)
+
+## The Legal Stuff
+* [Employee Handbook](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/Legal%20Stuff/1-employee-handbook.md)
+* [At-Will Employment](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/Legal%20Stuff/2-at-will-employment.md)
+* [Employment Policies](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/Legal%20Stuff/3-employment-policies.md)
+* [Confidentiality Policy](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/Legal%20Stuff/4-confidentiality-policy.md)
+* [Hours of Work and Payroll](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/Legal%20Stuff/5-hours-of-work-and-payroll.md)
+* [Standards of Conduct and Employee Performance](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/Legal%20Stuff/6-standards-of-conduct-and-employee-performance.md)
+* [Internet, Social Media, and Personal Device Use Policy](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/Legal%20Stuff/7-internet-social-media-and-personal-device-use-policy.md)
+* [Dog In Office Waiver](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/Legal%20Stuff/waiver-dogs.md)

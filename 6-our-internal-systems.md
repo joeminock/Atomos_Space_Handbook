@@ -22,8 +22,8 @@ This is our team private repository of documents and code that does not fall und
 
 https://github.com/AtomosSpace
 
-### Shipshape
+### Gusto
 
-Shipshape is how we make sure our work computers are up to Atomos Space's strict security protocol. When you're given access to Atomos Space's GitHub account, you can run Shipshape to be sure you're up to code. Shipshape will also test your machine periodically to let you know (and our SIP team know) if your machine springs a leak and needs bailing out.
+Gusto is where we manage payroll and benefits for all employees. You may log in to Gusto to review pay stubs, benefits plans, etc. If you have any questions, William can get you pointed in the right direction. 
 
-https://github.com/Atomos Space/shipshape
+https://gusto.com
