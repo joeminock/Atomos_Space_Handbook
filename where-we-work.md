@@ -2,13 +2,13 @@
 
 ## Office
 
-The Atomos Space HQ is in Chicago, in the West Loop neighborhood. Thirteen people and one frog have desk space in the Chicago office, but those people also work from home regularly. We moved into the office in August 2010, and before that, 37signals shared space with our friends at [Coudal Partners](http://www.coudal.com). The office is also where we twice a year gather the whole company for the meet-up.
+The Atomos Space HQ is in Denver, in the Galvanize Platte location, jsut a stones throw from downtown. Four people and one dog have desk space in the office, but those people also work from home regularly. We moved into the office in May 2019, and before that, we shared space with our friends in the Techstars Boulder accelerator space.
 
-Anyone is welcome to visit Chicago and work from the office at any time.
+Anyone is welcome to visit Denver and work from the office at any time.
 
 ## From home
 
-Most people at Atomos Space work from home most of the time. You can spend up to $1,000 every three years outfitting your home office. Getting the basics right will make a big difference: a good chair and a good desk.
+Working from home is always an option. Doing so just requires that you're working on a secure network and accessing Atomos Space resources via VPN. 
 
 ## From coffee shops
 
