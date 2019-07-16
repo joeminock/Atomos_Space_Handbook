@@ -10,7 +10,7 @@ At Atomos Space, security is our greatest priority. We're incredibly proud of th
 * Passwords must be changed every 30 days.
 * Old Passwords may not be reused.
 
-##Data Security, Federal Law, and International Treaty Considerations
+## Data Security, Federal Law, and International Treaty Considerations
 
 Export Controlled Research includes information that is regulated for reasons of national security, foreign policy, anti-terrorism, or non-proliferation. The *International Traffic in Arms Regulations (ITAR)* and *Export Administration Regulations (EAR)* govern this data type. Current law requires that this data be stored in the U.S and that only authorized U.S. persons be allowed access to it.
 
