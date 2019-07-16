@@ -69,19 +69,18 @@ When you enter any destination country or return to the US, you may be asked to 
 * Common questions:
   * Purpose of your visit? Here for a business meeting or conference in [Destination City].
   * Here to do work? **Nope!** Here on business, meeting with [client].
-  * Where are you staying?
-    Hotel:
-    Address:
-    Front Desk Phone:
+  * Where are you staying? Have this info at the ready!!
+    * Hotel:
+    * Address:
+    * Front Desk Phone:
 * **Be straightforward and truthful**. You're legit! No need to be cagey or misleading.
 
 ## Checklist: When You Arrive
 
-* Let us know! Mention in Slack when you're through customs and have arrived at your destination.
+* Let us know! Log back into Slack and let us know when you're through customs and have arrived at your destination.
 * Touch ID: Reenable on your phone, tablet, and laptop.
 * Dropbox: Log in and reconnect, but only if needed during travel.
-* Slack: Log in.
-* 1Password: Turn off Travel Mode. Go to https://Atomos Space.1password.com/profile and click Disable Travel Mode. Next time you open 1Password, you'll have full access again.
+* 1Password: Turn off Travel Mode. Go to https://AtomosSpace.1password.com/profile and click Disable Travel Mode. Next time you open 1Password, you'll have full access again.
 * Email apps: Add your @AtomosSpace.com account again.
 * Atomos Space source code: Download and restore the archive of your Atomos Space git repos, but only if needed during travel.
 * Other sensitive documents: Download and restore, but only if needed during travel.
@@ -89,7 +88,6 @@ When you enter any destination country or return to the US, you may be asked to 
 ## Checklist: When You Return
 
 * Same as when you travel! Repeat the checklists for any border crossing, whether into or out of the US.
-
 
 ## Any Questions?
 
