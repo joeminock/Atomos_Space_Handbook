@@ -9,14 +9,12 @@ This handbook also offers us an opportunity to clarify who we actually are as a 
 If you’re reading this just after joining the company, it’s particularly on you, actually. It’s harder for us slowly-boiled frogs who’ve been with Atomos Space for a while to spot the broken ways. Please take advantage of that glorious, shiny opportunity of being new, and question things.
 
 ## The Atomos Way
-* [About This Handbook](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/about-this-handbook.md)
-* [Atomos Space Is You](https://github.com/joeminock/Atomos_Space_Handbook/handbook/blob/master/atomos_space-is-you.md)
-* [Getting Started](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/getting-started.md)
-* [Data Security and Compliance](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/atomos-data-security-and-compliance.md)
-
-
-
-* [What We Stand For](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/what-we-stand-for.md)
+* [About This Handbook](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/1-about-this-handbook.md)
+* [Atomos Space Is You](hhttps://github.com/joeminock/Atomos_Space_Handbook/blob/master/2-atomos-space-is-you.md)
+* [Getting Started](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/3-getting-started.md)
+* [Data Security and Compliance](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/4-atomos-data-security-and-compliance.md)
+* [What We Stand For](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/5-what-we-stand-for.md)
+* [Our Internal Systems](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/6-our-internal-systems.md)
 * [What Influenced Us](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/what-influenced-us.md)
 * [Vocabulary](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/vocabulary.md)
 * [Product Histories](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/product-histories.md)
@@ -25,7 +23,7 @@ If you’re reading this just after joining the company, it’s particularly on 
 * [Benefits & Perks](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/benefits-and-perks.md)
 * [How We Work](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/how-we-work.md)
 * [Our Rituals](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/our-rituals.md)
-* [Our Internal Systems](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/our-internal-systems.md)
+
 * [International Travel Guide](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/international-travel-guide.md)
 * [FAQ](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/faq.md)
 
