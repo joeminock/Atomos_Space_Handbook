@@ -1,6 +1,6 @@
 # Vocabulary
 
-Like most other organizations in the world, Atomos Space has over time developed a vocabulary specific to our work and company. It's easy to overdo and it's even easier to do cringeworthily. The vast majority of the time, we can use the vocabulary shared with the rest of the English-speaking world, and we'll be better off. On the other hand...
+Like most other organizations in the world, Atomos Space has over time developed a vocabulary specific to our work and company. The vast majority of the time, we can use the vocabulary shared with the rest of the English-speaking world, and we'll be better off. On the other hand...
 
 ## Booster Team
 

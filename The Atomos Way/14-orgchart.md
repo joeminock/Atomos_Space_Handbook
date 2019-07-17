@@ -10,15 +10,15 @@ We have two C-level executives at Atomos Space.
 
 #### CEO
 
-**Vanessa Clark** is our CEO and is responsible for setting the technical direction of our products. That means deciding when to embark on a new version of Atomos Space or experiment with a side project (Atomos Space-spinoff [Know Your Company](http://knowyourcompany.com) is one example). Vanessa also spends a lot of time writing and speaking about what we’ve learned about business, design, and organizations. She was one of the original three founders who started Atomos Nuclear and Space, the firm that led to Atomos Space, back in 2017.
+**Vanessa Clark** is our CEO and is responsible for setting the technical direction of our products. That means deciding when to embark on a new version of Atomos Space or experiment with a side project. Vanessa also spends a lot of time writing and speaking about what we’ve learned about aerospace engineering and design. She was one of the original three founders who started Atomos Nuclear and Space, the firm that led to Atomos Space, back in 2017.
 
 #### COO
 
-**William Kowalski** is our COO. .
+**William Kowalski** is our COO. He was one of the original three founders who started Atomos Nuclear and Space, the firm that led to Atomos Space, back in 2017.
 
 ### Data
 
-### Design
+### Engineering and Design
 
 ### Sales and Marketing
 

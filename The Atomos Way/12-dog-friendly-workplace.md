@@ -3,7 +3,7 @@
 Collectively, we agree that dogs are awesome, but having them in the office is a privilege, and with privilege comes responsibility.
 
 ## Dog Policy
-team members are 100% responsible, 100% of the time, for their dog’s wellbeing, behavior, and biological needs, including: scooping, bagging, cleaning, and sanitizing as needed.
+Team members are 100% responsible, 100% of the time, for their dog’s wellbeing, behavior, and biological needs, including: scooping, bagging, cleaning, and sanitizing as needed.
 
 Team members shall be respectfully attentive to coworkers who may be uncomfortable or distracted by the dog’s behavior and proactively address distractions as well as be open to co-workers suggestions on how to improve distractions.
 

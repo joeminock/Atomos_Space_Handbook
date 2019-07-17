@@ -11,14 +11,13 @@ If you travel out of the country for business purposes—to a company meetup or 
 
 We have answers!
 
-### When you travel for Atomos Space business, here's what you need:
+### When you travel for Atomos Space business, here's what you may need:
 
 1. A passport! Apply for one now if you don't have one already. Renew now if your passport expires in the next six months.
 2. A travel visa or waiver.
 3. An invitation letter that substantiates the purpose of your travel.
 4. Your hotel address and contact info.
-5. A security checklist for your laptop and phone. **Clearing work data from your devices is *required* before crossing the border.**
-
+5. A security checklist for your laptop and phone. **Clearing work data from your devices is *REQUIRED* before crossing the border.**
 
 ## Visa
 
@@ -28,17 +27,17 @@ You may need a visa (or a waiver!) to authorize travel to the destination countr
 
 When you enter any destination country or return to the US, you may be asked to unlock your phone or laptop for search, possibly exposing sensitive company data like source code, passwords, and customer account data. Yikes! We need to take some precautionary measures to safeguard our data.
 
-(What's a work device? Anything you have company data on: your laptop where you work with Atomos Space source code; your tablet where you read Atomos Space email; your phone where you use the Atomos Space app; etc.)
+(What's a work device? Anything you have company data on: your laptop where you work with Atomos Space source code or designs; your tablet where you read Atomos Space email; your phone where you use the Atomos Space app; etc.)
 
-### TL;DR: Don't Travel With Work Data
+### TL;DR: Do NOT Travel With Work Data
 
 * If you don't need your work laptop (or tablet/phone), don't bring it with you!
 * Wipe company data from your phone before crossing the border. Restore it afterward.
 
 ## Checklist: Before You Travel
 
-* Let us know! Share your travel plans and when you expect to arrive in the US.
-* Ensure you have your passport, travel waivers or Visa, invitation letter, and travel details all in order.
+* Let us know! Share your travel plans and when you expect to arrive in the destination country.
+* Ensure you have your passport, travel waivers or Visa, invitation letter (if applicable), and travel details all in order.
 * Put William and our attorney on speed dial.
   * If you run into general travel issues or have any questions, contact William Kowalski.
   * If you're detained or encounter some other serious customs headache, contact our attorney directly: [Attorney TBA] (get phone number from William). Customs and Border Protection (CBP) is not required to allow you to contact an attorney, but [Attorney TBA] is your first call if possible.
@@ -52,15 +51,19 @@ When you enter any destination country or return to the US, you may be asked to 
   * Laptops: Clear cookies in Chrome, Safari, etc.
   * [iOS](https://support.apple.com/en-us/HT201265): Settings > Safari > Clear History and Website Data
   * [Android](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en): Chrome > Settings > Privacy > Clear browsing data. Check Cookies and site data; uncheck all the other items. > Clear data.
-* Atomos Space source code.
+* Atomos Space source code and engineering assets.
   * Make an encrypted archive of your Atomos Space git repos so you can download and restore it after you're through customs.
-  * Delete all Atomos Space source code from your laptop.
+  * Delete all Atomos Space source code and engineering assets from your laptop.
 * Other sensitive documents.
   * Same deal as source code. Make an encrypted backup and remove from your laptop.
-* Dropbox
-  * Log out of Dropbox and disconnect.
+* AWS GovCloud
+  1. Commit and push any file or document updates
+  2. Close any open sessions and exit your terminal.
+  3. Purge your machine of any work history.
 * Touch ID
   * Disable Touch ID on your phone, tablet, and laptop. Require a secure passcode/password to unlock.
+* Empty Your Device Trash
+  Be sure to clear any history of deleted items as they may be recovered in any intrusive search.
 
 ## Checklist: At Customs
 

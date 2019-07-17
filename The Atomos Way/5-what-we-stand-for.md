@@ -13,4 +13,4 @@ Bureaucracy and processes are created to protect companies from mediocre enginee
 Everyone has strengths and weaknesses. Acknowledge and communicate yours. Work on making them better, or work out who is better suited for something that you are weak at. Be open to receiving feedback and evaluating it for merit.
 
 ### **Question Convention and Understand Assumptions.**.
-William wants to word-Smith, but this is my input.
+Details to be added :-)
