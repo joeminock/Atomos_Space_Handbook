@@ -10,7 +10,7 @@ If you’re reading this just after joining the company, it’s particularly on 
 
 ## The Atomos Way
 * [About This Handbook](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/1-about-this-handbook.md)
-* [Atomos Space Is You](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/2-atomos-space-is-you.md)
+* [Atomos Space Is You](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/The%20Atomos%20Way/2-atomos-space-is-you.md)
 * [Getting Started](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/3-getting-started.md)
 * [Data Security and Compliance](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/4-atomos-data-security-and-compliance.md)
 * [What We Stand For](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/5-what-we-stand-for.md)
